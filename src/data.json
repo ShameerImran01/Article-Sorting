@@ -1,0 +1,23 @@
+[
+    {
+      "title": "CSS is for Styling",
+      "upvotes": 23,
+      "date": "2024-07-20"
+    },
+    {
+      "title": "React is Component based",
+      "upvotes": 40,
+      "date": "2024-07-18"
+    },
+    {
+      "title": "HTML as Front End",
+      "upvotes": 25,
+      "date": "2024-07-25"
+    },
+    {
+        "title": "React gives Hot Reload",
+        "upvotes": 26,
+        "date": "2024-07-27"
+      }
+  ]
+  
